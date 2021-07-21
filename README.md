@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, front end dev, UI and UX
 - 🌱 I’m currently learning game dev in JS and HTML5, SASS, SVG and JSAP anim
 - 💞️ I’m looking to collaborate on anything interactive, new and interesting
-- 📫 How to reach me at buildbetter.technology
+- 📫 reach me at http://buildbetter.technology
 
 <!---
 sprtrpr/sprtrpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
